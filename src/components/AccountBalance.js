@@ -4,7 +4,7 @@ class AccountBalance extends Component{
     render(){
         return(
             <div>
-                Balance: {this.props.AccountBalance}
+                Balance: {this.props.accountBalance}
             </div>
         );
     }
